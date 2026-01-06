@@ -1,7 +1,29 @@
-## 👋 Ahoj
+# 👋 Hi, I'm a Developer
 
-Jsem Python programátor zaměřený na automatizace, skripty a boty.
+I'm a programmer focused on **automation, scripts, bots, and web development**. I enjoy building practical solutions and continuously improving my skills through real projects.
 
-🔧 Python • automatizace • API • boty  
-📂 Pracuji na reálných projektech  
-🚀 Buduji portfolio
+---
+
+## 🛠️ Skills
+
+- **Languages:** Python, Java, Lua  
+- **Web:** HTML, CSS, JavaScript, backend scripting  
+- **Specialties:** Automation, APIs, Bots, Scripting  
+
+---
+
+## 📂 What I Do
+
+- Build **automation tools** and custom scripts  
+- Develop **bots** (e.g. Discord, game-related, utilities)  
+- Create **web applications and websites**  
+- Work on **real-world projects** to gain experience  
+
+---
+
+## 🚀 Goals
+
+- Expand my **portfolio with real projects**  
+- Improve code quality and architecture  
+- Learn new technologies and frameworks  
+
